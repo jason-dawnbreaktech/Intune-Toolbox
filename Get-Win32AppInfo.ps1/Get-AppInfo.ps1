@@ -167,7 +167,7 @@ function Get-UninstallString {
     return $uninstallString
 }
 
-function Get-DiplayVersion {
+function Get-DisplayVersion {
     <#
     .SYNOPSIS
         Retrieves the display version for an installed application based on its product code.
